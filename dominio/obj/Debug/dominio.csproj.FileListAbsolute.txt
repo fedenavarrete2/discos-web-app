@@ -1,0 +1,6 @@
+C:\Users\FEDE\source\repos\AppDisco\dominio\bin\Debug\dominio.dll
+C:\Users\FEDE\source\repos\AppDisco\dominio\bin\Debug\dominio.pdb
+C:\Users\FEDE\source\repos\AppDisco\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\FEDE\source\repos\AppDisco\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\FEDE\source\repos\AppDisco\dominio\obj\Debug\dominio.dll
+C:\Users\FEDE\source\repos\AppDisco\dominio\obj\Debug\dominio.pdb

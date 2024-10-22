@@ -1,0 +1,9 @@
+C:\Users\FEDE\source\repos\AppDisco\negocio\bin\Debug\negocio.dll
+C:\Users\FEDE\source\repos\AppDisco\negocio\bin\Debug\negocio.pdb
+C:\Users\FEDE\source\repos\AppDisco\negocio\bin\Debug\dominio.dll
+C:\Users\FEDE\source\repos\AppDisco\negocio\bin\Debug\dominio.pdb
+C:\Users\FEDE\source\repos\AppDisco\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\FEDE\source\repos\AppDisco\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\FEDE\source\repos\AppDisco\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\FEDE\source\repos\AppDisco\negocio\obj\Debug\negocio.dll
+C:\Users\FEDE\source\repos\AppDisco\negocio\obj\Debug\negocio.pdb
